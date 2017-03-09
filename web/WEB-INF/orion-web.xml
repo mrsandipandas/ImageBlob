@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<orion-web-app always-redeploy="false" autojoin-session="true" context-root="/ImageBlobTest2" default-buffer-size="2048" default-charset="utf-8" development="true" directory-browsing="deny" enable-jsp-dispatcher-shortcut="true" file-modification-check-interval="1000" jsp-cache-tlds="standard" jsp-print-null="true" jsp-timeout="0" oc4j:schema-major-version="10" oc4j:schema-minor-version="0" servlet-webdir="/servlet/" simple-jsp-mapping="false" temporary-directory="./temp"/>
